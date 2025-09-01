@@ -1,3 +1,20 @@
-body{
-    background-color: #f4eaa8;
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+}
+.card{
+    margin:  15px;
+    background-color: #325862;
+    color: aliceblue;
+   
+}
+.btn btn-primary{
+    justify-items: center;
+}
+
+main {
+    height: 80vh;
 }
