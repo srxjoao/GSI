@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Indie+Flower&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Prociono&display=swap');
+
 * {
     font-family: 'Inter', sans-serif;
     margin: 0;
@@ -17,4 +19,24 @@
 
 main {
     height: 80vh;
+}
+
+.footer{
+    height: 80px;
+    margin-top: 10px;
+    background-color: #325862;
+    color: #F3A258;
+    font-size: 15px;
+    font-family: "Indie Flower", serif;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.dev{
+    color: #F3A258;
+    text-decoration: none;    
+    font-family: "Indie Flower", serif;
 }
