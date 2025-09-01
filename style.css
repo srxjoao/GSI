@@ -40,3 +40,7 @@ main {
     text-decoration: none;    
     font-family: "Indie Flower", serif;
 }
+
+.navbar{
+    line-break: none;
+}
