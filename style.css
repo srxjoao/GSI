@@ -44,3 +44,8 @@ main {
 .navbar{
     line-break: none;
 }
+
+.card:hover{
+    background-color: #F3A258;
+    color:#325862;
+}
