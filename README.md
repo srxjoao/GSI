@@ -21,3 +21,9 @@ Uma página web responsiva em **HTML + Bootstrap** com **animações do Animate.
 - **Popper.js** – dependência do Bootstrap para componentes interativos.
 
 
+## 🧑 Aluno
+
+- João Pedro de Oliveira Barbosa
+
+## 🧑‍🏫 Professor
+- Fábio Duarte De Oliveira - Gerência E Configurações De Serviços De Internet   
